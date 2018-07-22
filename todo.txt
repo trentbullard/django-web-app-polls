@@ -1,0 +1,1 @@
+https://docs.djangoproject.com/en/2.0/intro/tutorial07/#customize-the-admin-index-page
